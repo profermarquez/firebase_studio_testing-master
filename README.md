@@ -1,3 +1,6 @@
+# Prompt
+Queremos crear un chatbot capaz de implementar nuevas estrategias de escritura que sirvan para mejorar la calidad del texto generado a nivel literario, narrativo o técnico: claridad, coherencia, persuasión, estilo, etc. Usar la api de gemini.ai para generar textos aplicando estrategias de escritura, de forma que se pueda mejorar la claridad, reescribir para que se entienda mejor, concisiónimplica	liminar redundancias, agregar énfasis	para reordenar para resaltar lo importante, tono persuasivo	Redactar para convencer y en el estilo narrativo, buscando transformar texto en una historia envolvente.
+
 # Created by firebase Studio
 This is a NextJS starter in Firebase Studio, and then modificated.
 
