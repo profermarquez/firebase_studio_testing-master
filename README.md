@@ -22,3 +22,6 @@ docker ps -a
 ## install libs
 docker exec -it firebase-studio-testing sh
 npm install axios
+
+# para evaluar el tipo de api-key
+ https://generativelanguage.googleapis.com/v1/models?key=MI_API_KEY
